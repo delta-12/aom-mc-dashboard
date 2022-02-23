@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "aom-mc-dashboard",
+  "name": "AoM Minecraft Dashboard",
   "icons": [
     {
       "src": "favicon.ico",
