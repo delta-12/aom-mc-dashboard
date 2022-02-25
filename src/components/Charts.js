@@ -45,7 +45,7 @@ export default class Charts extends Component {
   render() {
     return (
       <div className="row">
-        <div className="col-xl-8 col-lg-7">
+        <div className="col-xl-8">
           <div className="card text-white bg-white mb-4">
             <div className="card-header">Activity</div>
             <div className="card-body">
@@ -77,7 +77,7 @@ export default class Charts extends Component {
             </div>
           </div>
         </div>
-        <div className="col-xl-4 col-lg-5">
+        <div className="col-xl-4">
           <div className="card text-white border-danger mb-4">
             <div className="card-header">Players</div>
             <div className="card-body">
